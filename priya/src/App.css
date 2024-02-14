@@ -1,0 +1,437 @@
+
+h1{
+  color: blue;
+  font-size: 57px;
+  font-weight: 800;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  top: 27px;
+}
+
+#mrt{
+  color: #00ff00;
+  font-size: 57px;
+  font-weight: 800;
+  display: flex;
+  position: relative;
+  left: 0.1vw;
+  top: 0px;
+}
+
+.amt2{
+  position: relative;
+  left: 84%;
+  top: 129px;
+  font-weight: 800;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+img{
+  height: 15rem;
+  width: 11rem;
+}
+
+
+
+span{
+  font-size: 1.7rem;
+  font-weight: 700;
+   position: relative;
+   left: 0px;
+   
+}
+h3{
+  position: relative;
+  left: 50px;
+  color: #00ff00;
+  margin-top: 10px;
+}
+h4{
+  color:#0D6EFD;
+  font-weight: 700;
+}
+
+.group-buttons button{
+  position: relative;
+  top: 140px;
+  font-size: 18px;
+  color: white;
+  font-weight: 700;
+}
+
+.indiprice{
+  position: relative;
+  top: 100px;
+  left: 470px;
+  font-size: 18px;
+  color: white;
+  font-weight: 700;
+}
+
+#cart{
+  position: relative;
+  top: 77px;
+  left: 1070px;
+  color: black;
+  font-weight: 800;
+  font-size: 19px;
+}
+
+.amt{
+  position: relative;
+  left: 48%;
+  top: 92%;
+  font-weight: 800;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+#reset{
+  position: relative;
+  left: 28%;
+  top: 92%;
+  font-size: 19px;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* main item list */
+.itemsList{
+  position: relative;
+  top: 5rem;
+}
+
+.itemsList .buttons{
+  position: relative;
+  top: 9rem;
+}
+
+.itemsList .buttons2{
+  position: relative;
+  top: 5.9rem;
+}
+
+.bill-box{
+  position: relative;
+  left: 77%;
+  top: 9rem;
+}
+
+.ressle{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 5rem;
+}
+
+.ressle .result{
+  font-size: 57px;
+  color: #ff0026;
+  font-weight: 700;
+}
+
+.list-dekho{
+  position: relative;
+  left: 69.9%;
+  top: -2rem;
+  color: white;
+  font-weight: 700;
+  font-size: 27px;
+}
+
+/* media query starts here... */
+
+@media screen and (max-width:415px){
+
+
+  .list-dekho{
+    position: relative;
+    left: 30.9%;
+    top: -3.5rem;
+    color: white;
+    font-weight: 700;
+    font-size: 9px;
+  }
+
+  .itemsList{
+    position: relative;
+    top: 5rem;
+  }
+  
+  .itemsList .buttons{
+    position: relative;
+    top: 0rem;
+    left: 7rem;
+  }
+  
+  .itemsList .buttons2{
+    position: relative;
+    left: 19.7rem;
+    top: -5.4rem;
+  }
+  
+  .bill-box{
+    position: relative;
+    left: 12%;
+    top: 9rem;
+  }
+  
+  .ressle{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 5rem;
+  }
+  
+  .ressle .result{
+    font-size: 57px;
+    color: #ff0026;
+    font-weight: 700;
+  }
+
+
+
+  h1{
+    color: blue;
+    font-size: 57px;
+    font-weight: 800;
+  
+    position: relative;
+    left: -25px;
+    top: 27px;
+  }
+
+  
+
+  .amt2{
+    position: relative;
+    left: 50%;
+    top: 47px;
+    
+    font-weight: 800;
+    font-size: 10px;
+  }
+
+
+  img{
+    position: relative;
+    top: 70px;
+    left: -27px;
+    height: 7rem;
+    width: 5rem;
+  }
+
+
+  h3{
+    position: relative;
+    left: 7px;
+    font-size: 15px;
+    color: #00ff00;
+    margin-top: 75px;
+    font-weight: 700;
+  }
+
+
+  h4{
+    color:#0D6EFD;
+    font-weight: 400;
+    font-size: 7px;
+    position: relative;
+    left: -44px;
+  }
+
+  span{
+    font-size: 0.8rem;
+    font-weight: 700;
+     position: relative;
+     left: 0px;
+     
+  }
+
+
+  .group-buttons button{
+    position: relative;
+    top: -110px;
+    left: 112px;
+    font-size: 8px;
+    color: white;
+    font-weight: 700;
+  }
+
+
+  .indiprice{
+    position: relative;
+    top: -138px;
+    left: 280px;
+    font-size: 10px;
+    color: white;
+    font-weight: 700;
+  }
+
+
+  #cart{
+    position: relative;
+    top: 87px;
+    left: 87px;
+    color: black;
+    font-weight: 800;
+    font-size: 12px;
+  }
+
+
+  .amt{
+    position: relative;
+    left: 8%;
+    top: 92%;
+    font-weight: 800;
+    font-weight: 700;
+    font-size: 12px;
+  }
+
+
+  #reset{
+    position: relative;
+    left: 20%;
+    top: 92%;
+    font-size: 19px;
+    font-weight: 700;
+    font-size: 18px;
+  }
+
+
+
+}
+
+/* second media  */
+
+@media screen and (max-width:615px) and (min-width:415px){
+  h1{
+    color: blue;
+    font-size: 57px;
+    font-weight: 800;
+  
+    position: relative;
+    left: -25px;
+    top: 27px;
+  }
+
+  
+
+  .amt2{
+    position: relative;
+    left: 50%;
+    top: 47px;
+    
+    font-weight: 800;
+    font-size: 10px;
+  }
+
+
+  img{
+    position: relative;
+    top: 70px;
+    left: -27px;
+    height: 7rem;
+    width: 5rem;
+  }
+
+
+  h3{
+    position: relative;
+    left: 7px;
+    font-size: 15px;
+    color: #00ff00;
+    margin-top: 75px;
+    font-weight: 700;
+  }
+
+
+  h4{
+    color:#0D6EFD;
+    font-weight: 400;
+    font-size: 7px;
+    position: relative;
+    left: -44px;
+  }
+
+  span{
+    font-size: 0.8rem;
+    font-weight: 700;
+     position: relative;
+     left: 0px;
+     
+  }
+
+
+  .group-buttons button{
+    position: relative;
+    top: -110px;
+    left: 112px;
+    font-size: 8px;
+    color: white;
+    font-weight: 700;
+  }
+
+
+  .indiprice{
+    position: relative;
+    top: -138px;
+    left: 280px;
+    font-size: 10px;
+    color: white;
+    font-weight: 700;
+  }
+
+
+  #cart{
+    position: relative;
+    top: 87px;
+    left: 87px;
+    color: black;
+    font-weight: 800;
+    font-size: 12px;
+  }
+
+
+  .amt{
+    position: relative;
+    left: 8%;
+    top: 92%;
+    font-weight: 800;
+    font-weight: 700;
+    font-size: 12px;
+  }
+
+
+  #reset{
+    position: relative;
+    left: 20%;
+    top: 92%;
+    font-size: 19px;
+    font-weight: 700;
+    font-size: 18px;
+  }
+
+
+
+}
+
+/* cart font-colo change */
+.colo{
+font-size: 19px;
+color: black;
+font-weight: 900;
+}
