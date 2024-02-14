@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Z-mart/static/css/main.5968676d.css",
+    "main.js": "/Z-mart/static/js/main.5be4c005.js",
+    "static/js/592.15b691e2.chunk.js": "/Z-mart/static/js/592.15b691e2.chunk.js",
+    "index.html": "/Z-mart/index.html",
+    "main.5968676d.css.map": "/Z-mart/static/css/main.5968676d.css.map",
+    "main.5be4c005.js.map": "/Z-mart/static/js/main.5be4c005.js.map",
+    "592.15b691e2.chunk.js.map": "/Z-mart/static/js/592.15b691e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5968676d.css",
+    "static/js/main.5be4c005.js"
+  ]
+}
